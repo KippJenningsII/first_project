@@ -4,9 +4,21 @@ body {
 
 h1 {
     color:#b7e4c7;
+    font-family: 'Rubik Puddles', cursive;
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
 
 .center {
     width: 50%;
     margin: auto;
+}
+
+#ventingSpace {
+    resize: none;
+    width: 725px;
+    height: 480px;
 }
